@@ -1,7 +1,7 @@
 ---
 title: Introduction
 feature_text: |
-  ## Siuan David Zhu
+  ## Siyuan David Zhu
   Hi! Glad to see you here. This is collection of my personal projects
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Content goes here"
@@ -15,6 +15,7 @@ DATA 441 - Project 1: [Locally Weighted Linear Regression](https://github.com/Si
 {% include button.html text="Notebook link" icon="github" link="https://github.com/Siyuan-Zhu/DATA441-Locally-Weighted-Linear-Regression-Intro/blob/main/Project_1_Locally_Weighted_Linear_Regression.ipynb" color="#0366d6" %}
 
 
+Please ignore the rest, site under development
 {% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
 
 ## Features
