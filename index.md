@@ -7,12 +7,11 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Content goes here"
 ---
 
-DATA 441 - Project 1: [Locally Weighted Linear Regression](https://github.com/Siyuan-Zhu/DATA441-Locally-Weighted-Linear-Regression-Intro/blob/main/Project_1_Locally_Weighted_Linear_Regression.ipynb)
-
-[{% include icon.html id="github" title="Project link" %}](https://github.com/Siyuan-Zhu/DATA441-Locally-Weighted-Linear-Regression-Intro/blob/main/Project_1_Locally_Weighted_Linear_Regression.ipynb)
+DATA 441 - Project 1: [Locally Weighted Linear Regression](https://github.com/Siyuan-Zhu/DATA441-Locally-Weighted-Linear-Regression-Intro/blob/main/Project_1_Locally_Weighted_Linear_Regression.ipynb)[{% include icon.html id="github" title="Project link" %}](https://github.com/Siyuan-Zhu/DATA441-Locally-Weighted-Linear-Regression-Intro/blob/main/Project_1_Locally_Weighted_Linear_Regression.ipynb)
 
 
-{% include button.html text="Notebook link" icon="github" link="https://github.com/Siyuan-Zhu/DATA441-Locally-Weighted-Linear-Regression-Intro/blob/main/Project_1_Locally_Weighted_Linear_Regression.ipynb" color="#0366d6" %}
+DATA 441 - Project 2: [Lowess Multivariate Adaptation](https://github.com/Siyuan-Zhu/DATA441-Lowess-Adaptation/blob/main/DATA441_Project_2_Lowess_Adaptation.ipynb)[{% include icon.html id="github" title="Project link" %}](https://github.com/Siyuan-Zhu/DATA441-Lowess-Adaptation/blob/main/DATA441_Project_2_Lowess_Adaptation.ipynb)
+
 
 
 Please ignore the rest, site under development
