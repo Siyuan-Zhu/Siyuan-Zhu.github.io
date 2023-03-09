@@ -9,8 +9,12 @@ excerpt: "Content goes here"
 
 DATA 441 - Project 1: [Locally Weighted Linear Regression](https://github.com/Siyuan-Zhu/DATA441-Locally-Weighted-Linear-Regression-Intro/blob/main/Project_1_Locally_Weighted_Linear_Regression.ipynb)[{% include icon.html id="github" title="Project link" %}](https://github.com/Siyuan-Zhu/DATA441-Locally-Weighted-Linear-Regression-Intro/blob/main/Project_1_Locally_Weighted_Linear_Regression.ipynb)
 
-
+<br>
 DATA 441 - Project 2: [Lowess Multivariate Adaptation](https://github.com/Siyuan-Zhu/DATA441-Lowess-Adaptation/blob/main/DATA441_Project_2_Lowess_Adaptation.ipynb)[{% include icon.html id="github" title="Project link" %}](https://github.com/Siyuan-Zhu/DATA441-Lowess-Adaptation/blob/main/DATA441_Project_2_Lowess_Adaptation.ipynb)
+
+<br>
+
+DATA 441 - Project 3: [Simple Gradient Boosting Implementation](https://github.com/Siyuan-Zhu/DATA441-Gradient-Boosting-Implementation/blob/main/Project_3_Gradient_Boosting_Implementation.ipynb)[{% include icon.html id="github" title="Project link" %}](https://github.com/Siyuan-Zhu/DATA441-Gradient-Boosting-Implementation/blob/main/Project_3_Gradient_Boosting_Implementation.ipynb)
 
 
 
