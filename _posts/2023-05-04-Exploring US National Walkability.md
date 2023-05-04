@@ -5,7 +5,7 @@ categories:
 excerpt: |
   Here we explore how the different walkability ratings of many places in the U.S with some visuals
 feature_text: |
-  ## U.S National Walkability Index
+  ## Exploring U.S National Walkability Index
   Made with Tableau
 feature_image: "/assets/visuals/walking_city_2"
 image: "https://picsum.photos/2560/600?image=733"
