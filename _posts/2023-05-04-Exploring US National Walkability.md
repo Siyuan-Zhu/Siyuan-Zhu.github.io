@@ -1,39 +1,18 @@
 ---
-title: DATA303 Interacting With Data 
+title: Exploring U.S National Wakability With Tableau
 categories:
 - Visualizations
 excerpt: |
-  Here I will display some interesting visualizations projects I've don in my DATA 303 course.
+  Here we explore how the different walkability ratings of many places in the U.S with some visuals
 feature_text: |
-  ## Interacting With Data
-  This is part 4 of the project
-feature_image: "https://picsum.photos/2560/600?image=733"
+  ## U.S National Walkability Index
+  Made with Tableau
+feature_image: "/assets/visuals/walking_city_2"
 image: "https://picsum.photos/2560/600?image=733"
 ---
 
-This part 4 post is made possible via Jekyll theme, or more particularly, the [Alembic](https://jekyllthemes.io/theme/alembic). I used this theme to form my personal website(under heavy development). This page is one of the blogs. By making this in the form of a blog post, it is easier to read becasue it has consistent format compared to the rest of the website, and it retains a clean aesthetics. It also allows me to do play with interesting elements on the page such as the background image on top, the featured text, and the cetegory tags, etc. The biggest challenge in making this work is perhaps fitting the .html visualizations properly on this page, after multiple failures of trying to use the built-in elements to embed the visuals, I've found that directly using "iframe" is much easier. 
+<div class='tableauPlaceholder' id='viz1683244300871' style='position: relative'><noscript><a href='#'><img alt='Exploring Walkability Index In the U.S ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Wa&#47;WalkabilityAndNumberOfCars_16831713836970&#47;ExploringWalkabilityIndexIntheU_S&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='WalkabilityAndNumberOfCars_16831713836970&#47;ExploringWalkabilityIndexIntheU_S' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Wa&#47;WalkabilityAndNumberOfCars_16831713836970&#47;ExploringWalkabilityIndexIntheU_S&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1683244300871');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else { vizElement.style.width='100%';vizElement.style.height='1177px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 
 
-The first visualization explores the relationship between voting habits, education, and income levels. One noticeable relationship between voting frequency and the others is that on the two extremes of voting behavior(people who always vote & people who never vote), tends to be correlated with higher/lower level of both education & income, this is directly observable on the graph just by looking at the thickness of the branches coming from those two voting behaviors. On the other hand, the "Sporadic" voting behavior is more evenly distributed between all levels of education and income.
-
-<h2 id="visualization 1">Visualization 1</h2>
-<iframe width="90%" height="600" frameborder="0" scrolling="yes" src="/assets/visuals/categories.html"></iframe>
-
-
-
-The second visualization exploresvoter turnouts and absentee voting change in Virginia General Elections from 2014 to 2022. This visualization utilizes a animated bubble chart to show the differences over the years. Speaking of which, 2020 certainly differentiates itself from other years. This easily observable in the animation becasue the sudden increase in % of Absentee Ballots(y-axis) is very hard to miss, and 2020 is the only year with such high % Absentee Ballot. The reasons are many but none more important or obivous than the pandemic rampaging the globe in 2020.
-
-<h2 id="visualization 2">Visualization 2</h2>
-<iframe width="90%" height="600" frameborder="0" scrolling="yes" src="/assets/visuals/bubble.html"></iframe>
-
-
-
-The third is a geographical visualization of voter turnouts in different parts of Virginia in 2022. From the map, there are several trends we can observe: one of the most obivous trend we can see is that the east side of virginia gernally have a higher voter turnout than the west. Also regions closer to the coast tend to have good voter turnouts compared to those further away from the coast. Additionally, Northern Virginia have a particularly good turnout rate compared to other regions.
-
-<h2 id="visualization 3">Visualization 3</h2>
-<iframe width="90%" height="600" frameborder="0" scrolling="yes" src="/assets/visuals/map.html"></iframe>
-
-
-Discussion about interactive visualizations: Interactivity in the visualizations such as the ones I've listed above can greatly enhance user engagement and comprehension, as it allows users to explore data at their own pace and focus on aspects that interest them. In this context, interactivity certainly adds value by fostering a deeper understanding of the information being presented. Doumont's talk cautions against overusing PowerPoint animations that divert attention from the content. The key is to balance meaningful interactivity with avoiding unnecessary distractions. Interactivity should serve a purpose and align with the goals of the visualization for maximum effectiveness.
 
 
