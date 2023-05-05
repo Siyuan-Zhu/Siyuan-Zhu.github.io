@@ -14,25 +14,19 @@ image: "https://picsum.photos/2560/600?image=733"
 
 
 <html>  
-<title>Basic HTML</title>  
+<title>Embedding API</title>  
 
-<body>  
+<body> 
 
-<script type="module">
-import { TableauViz } from "https://public.tableau.com/javascripts/api/tableau.embedding.3.latest.js";  
+<div style="width:1200px; height:1000px;">  
+<script type="module" src="https://public.tableau.com/javascripts/api/tableau.embedding.3.latest.js"> 
 
-const viz = new TableauViz();
-
-viz.src = "https://public.tableau.com/views/WalkabilityAndNumberOfCars_16831713836970/ExploringWalkabilityIndexIntheU_S?:language=en-US&:display_count=n&:origin=viz_share_link";
-viz.toolbar = "hidden";
-
-document.getElementById("tableauViz").appendChild(viz);  
 </script>  
 
-<div style="width:100%; height:1000px;">
-<div id="tableauViz"></div>
+<tableau-viz id="tableauViz" src="https://public.tableau.com/views/WalkabilityAndNumberOfCars_16831713836970/ExploringWalkabilityIndexIntheU_S?:language=en-US&:display_count=n&:origin=viz_share_link"  toolbar="bottom" hide-tabs>  
+</tableau-viz>  
 </div>  
 
 </body>  
 
-</HTML>
+</html>
