@@ -16,7 +16,7 @@ image: "https://picsum.photos/2560/600?image=733"
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 100%;
+    width: 1200px;
     height: 1000px;
   }
 
