@@ -7,9 +7,11 @@ excerpt: |
 feature_text: |
   ## Exploring U.S National Walkability Index
   Made with Tableau
-feature_image: "/assets/visuals/walking_city_2"
+feature_image: "https://picsum.photos/2560/600?image=733"
 image: "https://picsum.photos/2560/600?image=733"
 ---
+
+
 
 <html>  
 <title>Basic HTML</title>  
