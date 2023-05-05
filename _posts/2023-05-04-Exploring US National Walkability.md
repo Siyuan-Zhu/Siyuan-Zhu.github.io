@@ -57,7 +57,8 @@ The bubble plot tests our hypotheses. In it we can see overall, more walkable ar
 <h2 id="Citations">Source Citations</h2>
 
 [Environmental Protection Agency. (n.d.). EPA](https://www.epa.gov/smartgrowth/smart-location-mapping#SLD) Retrieved May 4, 2023
+
 <br>
 
-[U.S. Environmental Protection Agency | US EPA. (n.d.).](https://www.epa.gov/sites/default/files/2021-06/documents/epa_sld_3.0_technicaldocumentationuserguide_may2021.pdf) Retrieved May 5, 2023 
+[U.S. Environmental Protection Agency, US EPA. (n.d.).](https://www.epa.gov/sites/default/files/2021-06/documents/epa_sld_3.0_technicaldocumentationuserguide_may2021.pdf) Retrieved May 5, 2023 
 
