@@ -29,7 +29,7 @@ viz.toolbar = "hidden";
 document.getElementById("tableauViz").appendChild(viz);  
 </script>  
 
-<div style="width:1200px; height:1000px;">
+<div style="width:100%; height:1000px;">
 <div id="tableauViz"></div>
 </div>  
 
