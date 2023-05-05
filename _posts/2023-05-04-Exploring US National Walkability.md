@@ -22,6 +22,7 @@ The first visualization on the left shows the average walkability aggregated by 
 
 The bubble plot tests our hypotheses. In it we can see overall, more walkable areas have more variety of the percentage of people with multiple cars. Compared to lower walkability CBSAs they have more chance of fewer people with many cars. However, higher walkability areas are not more likely to have more lower income workers. Instead the reverse is true. Lower walkability areas are more likely to have more lower income workers. The maps allow us to see general trends in walkability across the country, and to filter the bubble plot so we can see how it breaks down by state. 
 
+<h2 id="Tableau Dashboard">Tableau Dashboard</h2>
 
 <style>
   .tableau-center {
@@ -54,8 +55,9 @@ The bubble plot tests our hypotheses. In it we can see overall, more walkable ar
 <br>
 <br>
 <h2 id="Citations">Source Citations</h2>
-Environmental Protection Agency. (n.d.). EPA. Retrieved May 4, 2023, from https://www.epa.gov/smartgrowth/smart-location-mapping#SLD 
+
+[Environmental Protection Agency. (n.d.). EPA](https://www.epa.gov/smartgrowth/smart-location-mapping#SLD) Retrieved May 4, 2023
 <br>
-U.S. Environmental Protection Agency | US EPA. (n.d.). Retrieved May 5, 2023 https://www.epa.gov/sites/default/files/2021-06/documents/epa_sld_3.0_technicaldocumentationuserguide_may2021.pdf 
-<br>
-U.S. Environmental Protection Agency | US EPA. (n.d.). Retrieved May 5, 2023, from https://www.epa.gov/sites/default/files/2021-06/documents/national_walkability_index_methodology_and_user_guide_june2021.pdf 
+
+[U.S. Environmental Protection Agency | US EPA. (n.d.).](https://www.epa.gov/sites/default/files/2021-06/documents/epa_sld_3.0_technicaldocumentationuserguide_may2021.pdf) Retrieved May 5, 2023 
+
