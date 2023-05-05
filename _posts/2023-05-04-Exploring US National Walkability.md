@@ -16,12 +16,17 @@ image: "https://picsum.photos/2560/600?image=733"
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 1200px;
+    width: 100vw;
     height: 1000px;
+    position: relative;
+    left: 50%;
+    right: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
   }
 
   .tableau-container {
-    width: 1200px;
+    width: 95vw;
     height: 1000px;
   }
 </style>
