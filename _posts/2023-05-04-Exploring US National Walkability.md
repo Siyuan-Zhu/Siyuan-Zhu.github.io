@@ -32,7 +32,7 @@ We aim to answer these hypotheses using the large and comprehensive “Smart Loc
   }
 
   .tableau-container {
-    width: 95vw;
+    width: 90vw;
     height: 1000px;
   }
 </style>
