@@ -17,6 +17,12 @@ We aim to answer these hypotheses using the large and comprehensive [“Smart Lo
 
 <br>
 
+<h2 id="Visulization Guide">Visulization Guide</h2>
+The first visualization on the left shows the average walkability aggregated by state. The tooltip when you hover over a state lists the walkability, average percentage of people in the state with two or more cars, average percentage of low wage workers in the state, and the sum total population in the CBSA groups in which data was collected for that state. The top right visualization shows the walkability by census CBSA block group, the smallest geographic area by which data was collected. The state data is the aggregation of the groups shown in this visualization. The final visualization on the bottom right is a bubble plot which compares walkability to the percentage of people who own two or more cars. The bubble size is dictated by total population, and the bubble color indicates the percentage of low wage workers. Each bubble is a CBSA group, and the plot can be filtered by state by clicking on the states in the first visualization. 
+
+The bubble plot tests our hypotheses. In it we can see overall, more walkable areas have more variety of the percentage of people with multiple cars. Compared to lower walkability CBSAs they have more chance of fewer people with many cars. However, higher walkability areas are not more likely to have more lower income workers. Instead the reverse is true. Lower walkability areas are more likely to have more lower income workers. The maps allow us to see general trends in walkability across the country, and to filter the bubble plot so we can see how it breaks down by state. 
+
+
 <style>
   .tableau-center {
     display: flex;
@@ -49,5 +55,7 @@ We aim to answer these hypotheses using the large and comprehensive [“Smart Lo
 <br>
 <h2 id="Citations">Source Citations</h2>
 Environmental Protection Agency. (n.d.). EPA. Retrieved May 4, 2023, from https://www.epa.gov/smartgrowth/smart-location-mapping#SLD 
-U.S. Environmental Protection Agency | US EPA. (n.d.). Retrieved May 5, 2023, from https://www.epa.gov/sites/default/files/2021-06/documents/epa_sld_3.0_technicaldocumentationuserguide_may2021.pdf 
+<br>
+U.S. Environmental Protection Agency | US EPA. (n.d.). Retrieved May 5, 2023 https://www.epa.gov/sites/default/files/2021-06/documents/epa_sld_3.0_technicaldocumentationuserguide_may2021.pdf 
+<br>
 U.S. Environmental Protection Agency | US EPA. (n.d.). Retrieved May 5, 2023, from https://www.epa.gov/sites/default/files/2021-06/documents/national_walkability_index_methodology_and_user_guide_june2021.pdf 
