@@ -10,10 +10,10 @@ feature_text: |
 feature_image: "https://picsum.photos/2560/600?image=733"
 image: "https://picsum.photos/2560/600?image=733"
 ---
-<h2 id="Introduction:">Introduction</h2>
+<h2 id="Introduction">Introduction</h2>
 The main objective of our project is to answer the question: how does the walkability of a given area correlate with the number of cars people own and how does this relate to the number of low income workers in the area? It would make sense for people in more walkable areas to own fewer cars, and we want to test if that hypothesis is true. We also want to see if areas with more lower income workers are more likely have fewer people with many cars, and if these two hypotheses combine to show that areas with higher walkability are correlated with more lower income workers. 
 
-We aim to answer these hypotheses using the large and comprehensive “Smart Location Database”, a nationwide geographic data resource for measuring location efficiency. The dataset consists of over 90 attributes measuring a wide range of characteristics of each census block of the U.S. Walkability index in this database is calculated based on various measures of the built environment that affect the probability of whether people walk as a mode of transportation. 
+We aim to answer these hypotheses using the large and comprehensive [“Smart Location Database”](https://www.epa.gov/smartgrowth/smart-location-mapping#SLD), a nationwide geographic data resource for measuring location efficiency. The dataset consists of [over 90 attributes](https://www.epa.gov/sites/default/files/2021-06/documents/epa_sld_3.0_technicaldocumentationuserguide_may2021.pdf) measuring a wide range of characteristics of each census block of the U.S. [Walkability index](https://www.epa.gov/sites/default/files/2021-06/documents/national_walkability_index_methodology_and_user_guide_june2021.pdf) in this database is calculated based on various measures of the built environment that affect the probability of whether people walk as a mode of transportation. 
 
 <br>
 
@@ -47,4 +47,7 @@ We aim to answer these hypotheses using the large and comprehensive “Smart Loc
 
 <br>
 <br>
-
+<h2 id="Citations">Source Citations</h2>
+Environmental Protection Agency. (n.d.). EPA. Retrieved May 4, 2023, from https://www.epa.gov/smartgrowth/smart-location-mapping#SLD 
+U.S. Environmental Protection Agency | US EPA. (n.d.). Retrieved May 5, 2023, from https://www.epa.gov/sites/default/files/2021-06/documents/epa_sld_3.0_technicaldocumentationuserguide_may2021.pdf 
+U.S. Environmental Protection Agency | US EPA. (n.d.). Retrieved May 5, 2023, from https://www.epa.gov/sites/default/files/2021-06/documents/national_walkability_index_methodology_and_user_guide_june2021.pdf 
