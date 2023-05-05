@@ -11,7 +11,26 @@ feature_image: "/assets/visuals/walking_city_2"
 image: "https://picsum.photos/2560/600?image=733"
 ---
 
-<iframe src="https://public.tableau.com/views/WalkabilityAndNumberOfCars_16831713836970/ExploringWalkabilityIndexIntheU_S?:language=en-US&:display_count=n&:origin=viz_share_link"
- width="900" height="800"></iframe>
+<html>  
+<title>Basic HTML</title>  
 
+<body>  
 
+<script type="module">
+import { TableauViz } from "https://public.tableau.com/javascripts/api/tableau.embedding.3.latest.js";  
+
+const viz = new TableauViz();
+
+viz.src = "https://public.tableau.com/views/WalkabilityAndNumberOfCars_16831713836970/ExploringWalkabilityIndexIntheU_S?:language=en-US&:display_count=n&:origin=viz_share_link";
+viz.toolbar = "hidden";
+
+document.getElementById("tableauViz").appendChild(viz);  
+</script>  
+
+<div style="width:1000px; height:800px;">
+<div id="tableauViz"></div>
+</div>  
+
+</body>  
+
+</HTML>
