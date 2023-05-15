@@ -19,7 +19,7 @@ We aim to answer these hypotheses using the large and comprehensive [“Smart Lo
 <h2 id="Visualization Guide">Visualization Guide</h2>
 The first Visualization on the left shows the average walkability aggregated by state. The tooltip when you hover over a state lists the walkability, average percentage of people in the state with two or more cars, average percentage of low wage workers in the state, and the sum total population in the CBSA groups<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup> in which data was collected for that state. The top right Visualization shows the walkability by census CBSA block group, the smallest geographic area by which data was collected. The state data is the aggregation of the groups shown in this Visualization. The final Visualization on the bottom right is a bubble plot which compares walkability to the percentage of people who own two or more cars. The bubble size is dictated by total population, and the bubble color indicates the percentage of low wage workers. Each bubble is a CBSA group, and the plot can be filtered by state by clicking on the states in the first visualization. 
 
-The bubble plot tests our hypotheses. In it we can see overall, more walkable areas have more variety of the percentage of people with multiple cars. Compared to lower walkability CBSAs they have more chance of fewer people with many cars. However, higher walkability areas are not more likely to have more lower income workers. Instead the reverse is true. Lower walkability areas are more likely to have more lower income workers. The maps allow us to see general trends in walkability across the country, and to filter the bubble plot so we can see how it breaks down by state.
+
 
 <div class="footnotes">
 <hr>
@@ -55,6 +55,10 @@ The bubble plot tests our hypotheses. In it we can see overall, more walkable ar
     <tableau-viz id="tableauViz" src="https://public.tableau.com/views/WalkabilityAndNumberOfCars_16831713836970/ExploringWalkabilityIndexIntheU_S?:language=en-US&:display_count=n&:origin=viz_share_link"  toolbar="bottom" hide-tabs></tableau-viz>
   </div>
 </div>
+<br>
+
+<h2 id="Conclusions">Conclusions</h2>
+The bubble plot tests our hypotheses. In it we can see, there are more orange CBSAs, which have a larger than median percentage of low wage workers, in higher walkability areas. This fits with our hypothesis that low wage workers will be more present in walkable areas. We can also see more walkable areas have more variety of the percentage of people with multiple cars. There are still many CBSAs with high percentages of people with 2 or more cars, but overall they are more likely to have fewer cars than CBSAs with low walkability. The maps allow us to see general trends in walkability across the country, and to filter the bubble plot so we can see how it breaks down by state. These are general trends. In Virginia specifically these patterns are not strong. There are more blue CBSAs at lower walkabilities, and orange at high walkabilities, but it is not overwhelmingly split into blue and orange sections. 
 
 
 <br>
