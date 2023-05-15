@@ -60,6 +60,15 @@ The first Visualization on the left shows the average walkability aggregated by 
 <h2 id="Conclusions">Conclusions</h2>
 The bubble plot tests our hypotheses. In it we can see, there are more orange CBSAs, which have a larger than median percentage of low wage workers, in higher walkability areas. This fits with our hypothesis that low wage workers will be more present in walkable areas. We can also see more walkable areas have more variety of the percentage of people with multiple cars. There are still many CBSAs with high percentages of people with 2 or more cars, but overall they are more likely to have fewer cars than CBSAs with low walkability. The maps allow us to see general trends in walkability across the country, and to filter the bubble plot so we can see how it breaks down by state. These are general trends. In Virginia specifically these patterns are not strong. There are more blue CBSAs at lower walkabilities, and orange at high walkabilities, but it is not overwhelmingly split into blue and orange sections. 
 
+<br>
+<h2 id="Helpful Links">Helpful Links</h2>
+[Download the data used](https://edg.epa.gov/metadata/catalog/search/resource/details.page?uuid=%7B251AFDD9-23A7-4068-9B27-A3048A7E6012%7D) in our visualizations: This is the link to download the data we used for your own use.
+<br>
+<br>
+[Methodology Link](https://www.epa.gov/sites/default/files/2021-06/documents/national_walkability_index_methodology_and_user_guide_june2021.pdf): This is a document about what walkability means practically. It also details how the walkability measure came about and what algorithm is used to calculate it.
+<br>
+<br>
+[Documentation Link](https://www.epa.gov/sites/default/files/2021-06/documents/epa_sld_3.0_technicaldocumentationuserguide_may2021.pdf): This is the technical documentation for the smart location database, where the data is from. It includes a list of variable names and their meanings in this dataset on page 6. 
 
 <br>
 <br>
